@@ -6,6 +6,9 @@ image_resource:
   source:
     repository: kkmbal/maven-build
 
+params:
+  FILE:
+
 inputs:
 - name: git
 - name: manifest
