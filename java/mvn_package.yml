@@ -13,4 +13,4 @@ outputs:
 - name: deploy
 
 run:
-  path: manifest/ci/mvn_package.sh
+  path: manifest/java/mvn_package.sh
