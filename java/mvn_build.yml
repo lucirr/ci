@@ -8,7 +8,7 @@ image_resource:
 
 params:
   TEST_SKIP: yes
-  GOAL: build
+  GOAL: compile
 
 inputs:
 - name: git
