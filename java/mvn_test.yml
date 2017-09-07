@@ -7,7 +7,7 @@ image_resource:
     repository: kkmbal/maven-build
 
 params:
-  SKIP_TEST: no
+  TEST_SKIP: no
   GOAL: test
 
 inputs:
