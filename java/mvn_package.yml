@@ -11,10 +11,10 @@ params:
 
 inputs:
 - name: git
-- name: manifest
+- name: ci
 
 outputs:
 - name: deploy
 
 run:
-  path: manifest/java/mvn_package.sh
+  path: ci/java/mvn_package.sh
