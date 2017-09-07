@@ -3,3 +3,5 @@ applications:
     memory: 1024M
     instances: 2
     buildpack: java_buildpack
+    services:
+     - pet-mysql
