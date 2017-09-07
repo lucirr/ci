@@ -10,7 +10,7 @@ export PATH=$PWD/bin:$PATH
 go get github.com/onsi/ginkgo/ginkgo
 go get github.com/onsi/gomega
 
-cd src/proxy/handlers
+cd git/src/proxy/handlers
 go test
 
 
