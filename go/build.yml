@@ -17,4 +17,4 @@ outputs:
 - name: deploy
 
 run:
-  path: ci/go/go_execute.sh
+  path: ci/go/go_build.sh
